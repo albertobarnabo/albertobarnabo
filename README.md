@@ -1,4 +1,4 @@
-## 🧑‍💻 Alberto Barnabò
+# 🧑‍💻 Alberto Barnabò
 
 **`Computer Science Engineer`**
 
@@ -10,38 +10,38 @@ I currently work as a software engineer for Capgemini, in Milan.
 
 ---
 
-### ⛏️ Languages and Frameworks
+## 🛠️ Tech Stack  
 
-<img align="left" alt="Python" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="React" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+### 👨‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<img align="left" alt="SQL" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Mongo" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="ElasticSearch" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+### 🏗️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<img align="left" alt="TensorFlow" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="PyTorch" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-
-<img align="left" alt="R" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Django" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Dart" width="35px" style="pading-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<br clear="left"/>
-
-#
-
-### 📈 Stats
+## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=radical)
 
-#
+---
 
 <details>
-          <summary><h3> 👣 My Journey </h3></summary>
+          <summary><h2> 👣 My Journey </h2></summary>
           
 I started taking my path towards learning computer science in 2016, where I went to a pre-college program in Cambridge to learn Python and R. That same year I did a one month intenship in a small company called Wins SRL to understand the machanism of relational databases and their usage.
 
