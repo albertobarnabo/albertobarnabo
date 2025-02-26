@@ -4,7 +4,7 @@
 
 I am a trilingual computer science engineer from Italy. 
 
-I obtained my bachelor's degree in 2021 at Politecnico di Milano. Subsequently, I started my master's degree and got accepted into a very selective double degree program at Xi'an Jiaotong University. I graduated in China on June 2024 and in Politecnico on October of the same year with a score of 105/110.
+I have a bachelor degree in computer science engineering obtained at Politecnico di Milano in 2021, and two master's degree in computer science engineering, one from Politecnico and one from Xi'an Jiaotong University.
 
 I currently work as a software engineer for Capgemini, in Milan.
 
