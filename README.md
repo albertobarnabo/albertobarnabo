@@ -34,9 +34,36 @@ I currently work as a software engineer for Capgemini, in Milan.
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+<!--
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=radical)
+-->
+
+## 🎖️ Badges
+
+<table style="border-radius: 20px; border: 1px solid lightgray; padding: 10px;">
+  <tr>
+    <td align="center"> 
+      <a href="https://www.polimi.it">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8eujRinrg5IH5fEkbJKaaRijJlRcIAQEvQ&s" width="85" />
+      </a>
+      <br>
+      <a href="https://www.polimi.it">
+        <img src="https://img.shields.io/badge/105%2F110-Politecnico_di_Milano-blue?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mensa.org">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Mensa_logo.svg/120px-Mensa_logo.svg.png" width="85" />
+      </a>
+      <br>
+      <a href="https://www.mensa.org">
+        <img src="https://img.shields.io/badge/Mensa-Member-blue?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table> 
 
 ---
 
