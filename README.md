@@ -34,11 +34,11 @@ I currently work as a software engineer for Capgemini, in Milan.
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-
+<!--
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=radical)
-
+-->
 
 ## 🎖️ Badges
 
