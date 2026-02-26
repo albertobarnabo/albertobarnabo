@@ -6,7 +6,7 @@ I am a trilingual computer science engineer from Italy.
 
 I have a bachelor degree in computer science engineering obtained at Politecnico di Milano in 2021, and two master's degree in computer science engineering, one from Politecnico and one from Xi'an Jiaotong University.
 
-I currently work as a software engineer for Capgemini, in Milan.
+I currently work as an AI engineer for the European Central Bank, in Frankfurt.
 
 ---
 
