@@ -61,17 +61,6 @@ I currently work as an AI engineer for the European Central Bank, in Frankfurt.
 
 ---
 
-<details>
-          <summary><h2> 👣 My Journey </h2></summary>
-          
-I started taking my path towards learning computer science in 2016, where I went to a pre-college program in Cambridge to learn Python and R. That same year I did a one month intenship in a small company called Wins SRL to understand the machanism of relational databases and their usage.
-
-After obtaining my high school diploma, I studied computer science engineering in Politecnico di Milano, one the most demaanding and challenging universities in the world. In this period I learned how to have a more formal and methodic approach to the CS world. I had the opportunity to learn all the details of Object Oriented Programming through the use of Java, the C programming language and a theoretical approach of algorithm complexity. Nevertheless, being an engineering program, I also had the opportunity to focus on calculus, linear algebra, electronics and automation and control.
-
-My master's degree journey was a little less standard: the double degree program consists in studying one year in your home university (in my case, Politecnico), and the remaining two in the host university, which for me it was the Xi'an Jiaotong University. After completing all my exams, my last year I had the opportunity to work as a researcher my professor's lab. With the aid of two PhD students, I studied Large Language Models and their ability to parse tabular data, by using agents and prompt-engineering techniques. My thesis was evaluated with the maximum score and I got a final degree score of 105/110.
-
-Once grduated, I started working for Capgemini as a Software Engineer in Milan.
-</details>
 
           
           
