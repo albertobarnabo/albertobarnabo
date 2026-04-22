@@ -2,7 +2,7 @@
 
 **`Computer Science Engineer`**
 
-I am a trilingual computer science engineer from Italy. 
+Computer Science Engineer from Italy, specialized in AI. 
 
 I have a bachelor degree in computer science engineering obtained at Politecnico di Milano in 2021, and two master's degree in computer science engineering, one from Politecnico and one from Xi'an Jiaotong University.
 
@@ -33,12 +33,6 @@ I currently work as an AI engineer for the European Central Bank, in Frankfurt.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=radical)
-
 
 ## 🎖️ Badges
 
