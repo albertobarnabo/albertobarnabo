@@ -36,6 +36,12 @@ Do you want to know more about me? Check out my [website](https://albertobarnabo
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertobarnabo&layout=compact&theme=tokyonight)
+
 ## 🎖️ Badges
 
 <table style="border-radius: 20px; border: 1px solid lightgray; padding: 10px;">
