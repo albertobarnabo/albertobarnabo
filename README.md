@@ -38,8 +38,8 @@ Do you want to know more about me? Check out my [website](https://albertobarnabo
 
 ## 📊 GitHub Stats 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertobarnabo&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=transparent" height="180em"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertobarnabo&layout=compact&theme=transparent" height="180em"/> 
 </p>
 
 ## 🎖️ Badges
