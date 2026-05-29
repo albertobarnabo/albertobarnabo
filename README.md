@@ -37,9 +37,9 @@ Do you want to know more about me? Check out my [website](https://albertobarnabo
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ## 📊 GitHub Stats 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=albertobarnabo&show_icons=true&theme=transparent" height="180em"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertobarnabo&layout=compact&theme=transparent" height="180em"/> 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertobarnabo&show_icons=true&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albertobarnabo&layout=compact&theme=tokyonight"/> 
 </p>
 
 ## 🎖️ Badges
