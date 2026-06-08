@@ -4,7 +4,7 @@
 
 Computer Science Engineer from Italy, specialized in AI. 
 
-I have a bachelor degree in computer science engineering obtained at Politecnico di Milano in 2021, and two master's degree in computer science engineering, one from Politecnico and one from Xi'an Jiaotong University.
+I have a bachelor degree in computer science engineering obtained at Politecnico di Milano in 2021, and two master's degree in computer science engineering, one from Politecnico di Milano and one from Xi'an Jiaotong University.
 
 I currently work as an AI engineer for the European Central Bank, in Frankfurt.
 
