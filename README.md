@@ -8,7 +8,7 @@ I have a bachelor degree in computer science engineering obtained at Politecnico
 
 I currently work as an AI engineer for the European Central Bank, in Frankfurt.
 
-Do you want to know more about me? Check out my [website](https://albertobarnabo.it/)!
+Do you want to know more about me? Check out my [website](https://albertobarnabo.com/)!
 
 ---
 
