@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://albertobarnabo.com/">Portfolio Website</a> •
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alberto-barnab%C3%B2-9a003817b/">LinkedIn</a>
 </p>
 
 ---
