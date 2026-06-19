@@ -1,10 +1,14 @@
 <h1 align="center">Alberto Barnabò</h1>
-<h2 align="center">AI Engineer @ European Central Bank 🇪🇺</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECB-0052CC?style=for-the-badge" />
+</p>
 <p align="center">Double M.Sc. in Computer Science Engineering</p>
 
 <p align="center">
   <a href="https://albertobarnabo.com/">Portfolio Website</a> •
-  <a href="https://www.linkedin.com/in/alberto-barnab%C3%B2-9a003817b/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alberto-barnab%C3%B2-9a003817b/">LinkedIn</a> •
+  <a href="https://huggingface.co/albertobarnabo">HunggingFace</a>
 </p>
 
 ---
