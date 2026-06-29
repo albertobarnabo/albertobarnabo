@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/500px-Logo_European_Central_Bank.svg.png" height="26" valign="middle" /> AI Engineering @ European Central Bank
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/500px-Logo_European_Central_Bank.svg.png" height="26" valign="middle" /> Applied AI Engineer @ European Central Bank
 
 * **Production LLM Pipelines:** Designed and deployed end-to-end LLM pipelines on AWS for large-scale regulatory document processing, optimizing context construction and tool-use strategies to improve agent reliability in production.
 * **Agentic Workflows:** Iterating on execution loop designs and model-facing improvements for long-horizon document analysis—bridging the gap between brittle prototypes and production-grade behavior.
